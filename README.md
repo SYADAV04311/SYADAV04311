@@ -1,5 +1,6 @@
-Hello Everyone
-I'm Sandeep Kumar
+##Hello Everyone
+
+##I'm Sandeep Kumar
 
 Data Science Intern at iNeuron.ai in Developing Food Recommendation System.
 
@@ -9,8 +10,13 @@ Good Knowledge in Data Wrangling, Python Programming, Machine Learning & Data Vi
 
 Actively seeking opportunities in the field of Data Science and Python.
 
-<!--
-**SYADAV04311/SYADAV04311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Skills
+Machine Learning
+Python
+Data Science
+Data Wrangling
+Data Visualization
+Sql
 
 Here are some ideas to get you started:
 
