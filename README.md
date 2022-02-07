@@ -28,6 +28,6 @@ Sql
 
 Additional Informations
 
-🔭 I’m currently working on Softora Technology Pvt. Ltd.
+🔭 I’m currently working on The Sparks Foundation
 
-🌱 I’m currently learning Power Bi & Java
+🌱 I’m currently learning AI
